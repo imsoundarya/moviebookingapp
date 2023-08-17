@@ -1,0 +1,1 @@
+2023-08-03 00:14:34.143  INFO 1227 --- [SpringApplicationShutdownHook] org.mongodb.driver.connection            : Closed connection [connectionId{localValue:3, serverValue:6}] to localhost:27017 because the pool has been closed.
